@@ -5,7 +5,7 @@
 This project performs play automation of Marvel Snap using screencapture and mouseclick functions in python libraries (mainly opencv-python, pyautogui), analyzing the screenshot, and perform actions. This is a revamped version of my previous [project](https://github.com/methreals/snapBOT), featuring improved play card strategies, XP efficiency and a user friendly ui. 
 
 ## How to use:
-1. Download the [installer](https://github.com/methreals/snap-bot-revamped/releases/download/release/snap-bot-revamped_v.1.0.exe) from [release page](https://github.com/methreals/snap-bot-revamped/releases/download/release/)
+1. Download the [installer](https://github.com/methreals/snap-bot-revamped/releases/download/release/snap-bot-revamped_v.1.0.exe) from [release page](https://github.com/methreals/snap-bot-revamped/releases/tag/release)
 
 2. Launch steam version of marvel snap
     - window mode, language: English, quality: Low
