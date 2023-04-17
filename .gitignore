@@ -1,0 +1,12 @@
+gui_main.spec
+test.py
+
+/lib/__pycache__/
+/build/
+/dist/
+/__pycache__/
+/.vscode/
+*.pyc
+__pycache__/gui.cpython-311.pyc
+lib/__pycache__/transition_functions.cpython-311.pyc
+lib/__pycache__/utils.cpython-311.pyc
