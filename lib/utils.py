@@ -103,11 +103,6 @@ def reconnect():
     startProcess(fullpath)
 
     time.sleep(10)
-    try:
-        os.system("c:/snap.ct")
-    except:
-        print("can't open snap.ct")
-    time.sleep(10)
 
     print("Reconnected")
     var.dc_n += 1
