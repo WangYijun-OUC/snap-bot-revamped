@@ -14,7 +14,7 @@ This project performs play automation of Marvel Snap using screencapture and mou
 
 4. If you prefer to run from source code, it requires Python 3.10 or above 
     - pip install pillow opencv-python pywin32 pyautogui
-    - run gui_main.py
+    - run *gui_main.py*
     - you can use *open_box.py*: A simple tool to open season caches automatically.
 
 The program needs to be on foreground window and you can't use the computer while running. To run on background, you can use a virtual machine. I highly recommend VMWare Workstation pro if you can afford it.
