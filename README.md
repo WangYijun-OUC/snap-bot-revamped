@@ -45,7 +45,7 @@ discontinued due to ban reports
 
 <br>
 
-***Play prioity:*** best location based on scores in "locations.ini" **->** random losing/draw location **->** location according to self correction rule (explanation below)
+***Play prioity:*** best location based on scores in "*locations.ini*" **->** random losing/draw location **->** location according to self correction rule (explanation below)
 
 ***Self correction rule:*** If a card is dragged to a prohibitive location, it would drag to a random location of the rest 2. If it goes to a prohibitive location again, it would drag to the last available location. If all three locations are unavailable to play on (e.g. triple spidermen), it would stop trying after 5 fails and end turn.
 
@@ -59,11 +59,11 @@ discontinued due to ban reports
 
 ## Update the tool:
 ***update images:***
-check "./images/" folder and replace the outdated images 
-- take screenshot and crop the image parts using clipping tool (win+shift+s)
+check "*./images/*" folder and replace the outdated images 
+- take screenshot and crop the image parts using clipping tool (Win+Shift+S)
 > Different machines or virtual machines can have different graphical render methods so you may have to update the images for your own PC specifically. 
 
-***modify locations scores:*** "locations.ini"
+***modify locations scores:*** "*locations.ini*"
 
 ## 
 This program does not access game memory or modify files but please be clear that using it can result in account suspension when detected or reported by other players.
