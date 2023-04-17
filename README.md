@@ -70,7 +70,7 @@ This program does not access game memory or modify files but please be clear tha
 
 ## Credits:
 * strategies, battlepass XP from 7F and 可可丁 
-* Used small section of code from AdriaGual's [Marvel Snap Bot](https://github.com/AdriaGual/marvel-snap-bot)
+* used small section of code from AdriaGual's [Marvel Snap Bot](https://github.com/AdriaGual/marvel-snap-bot)
 
 ## License:
 
