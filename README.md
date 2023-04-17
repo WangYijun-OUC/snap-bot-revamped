@@ -1,9 +1,11 @@
-# Snap Bot Revamped
+<h1 align="center">
+  Snap Bot Revamped
+</h1>
 
 This project performs play automation of Marvel Snap using screencapture and mouseclick functions in python libraries (mainly opencv-python, pyautogui), analyzing the screenshot, and perform actions. This is a revamped version of my previous [project](https://github.com/methreals/snapBOT), featuring improved play card strategies, XP efficiency and a user friendly ui. 
 
 ## How to use:
-1. Download the installer in release page
+1. Download the [installer](https://github.com/methreals/snap-bot-revamped/releases/download/release/snap-bot-revamped_v.1.0.exe) from [release page](https://github.com/methreals/snap-bot-revamped/releases/download/release/)
 
 2. Launch steam version of marvel snap
     - window mode, language: English, quality: Low
@@ -65,6 +67,10 @@ check "./images/" folder and replace the outdated images
 
 ## 
 This program does not access game memory or modify files but please be clear that using it can result in account suspension when detected or reported by other players.
+
+## Credits:
+* strategies, battlepass XP from 7F and 可可丁 
+* Used small section of code from AdriaGual's [Marvel Snap Bot](https://github.com/AdriaGual/marvel-snap-bot)
 
 ## License:
 
