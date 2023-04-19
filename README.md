@@ -63,7 +63,7 @@ check *./images/* folder and replace the outdated images
 - take screenshot and crop the image parts using clipping tool (Win+Shift+S)
 > Different machines or virtual machines can have different graphical render methods so you may have to update the images for your own PC specifically. 
 
-***modify locations scores:*** *locations.ini*, *./images/locations/* folder
+***modify locations scores:*** *locations.ini* and *./images/locations/* folder
 
 ## 
 This program does not access game memory or modify files but please be clear that using it can result in account suspension when detected or reported by other players.
